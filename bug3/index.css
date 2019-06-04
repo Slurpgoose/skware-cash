@@ -81,11 +81,11 @@ li.active {
     padding-top: 13px;
     font-weight: bold;
     font-size: 20px;
-    cursor: pointer;
+	cursor: pointer;
 }
 
 .new:hover {
-	background-color: #16DF45;
+	background-color: #16DF45 !important;
 }
 
 .search {
